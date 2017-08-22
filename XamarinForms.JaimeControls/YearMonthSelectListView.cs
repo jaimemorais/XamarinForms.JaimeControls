@@ -11,6 +11,9 @@ namespace XamarinForms.JaimeControls
 
     /// <summary>
     /// Year/Month Select ListView
+    /// Raises the YearMonthSelected event when a year/month is selected, 
+    /// otherwise opens the month list for the selected year
+    /// 
     /// Author : Jaime Morais 
     /// 
     /// Usage :
