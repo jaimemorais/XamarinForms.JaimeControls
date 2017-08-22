@@ -8,10 +8,10 @@
     <ProjectGuid>{F8731DD4-8E5F-4B82-A43E-B40A3E8688B5}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>XamarinForms.JaimeControls</RootNamespace>
-    <AssemblyName>XamarinForms.JaimeControls</AssemblyName>
+    <RootNamespace>YearMonthSelectListView.Plugin</RootNamespace>
+    <AssemblyName>YearMonthSelectListView.Plugin</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
-    <TargetFrameworkProfile>Profile111</TargetFrameworkProfile>
+    <TargetFrameworkProfile>Profile259</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{786C830F-07A1-408B-BD7F-6EE04809D6DB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <NuGetPackageImportStamp>
@@ -35,7 +35,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="XamarinForms.JaimeControls.cs" />
+    <Compile Include="YearMonthSelectListView.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
